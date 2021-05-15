@@ -70,3 +70,4 @@ function draw(){
     platform.display();
     string.display();
 }
+ 
